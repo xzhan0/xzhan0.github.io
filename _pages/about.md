@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is Xianyang.
+I am a Junior pursuing my undergraduate degree in Computer Science at the University of Illinois Urbana Champaign, with a passion for software development and programming. My research interests include AI and ML, Interactive Computing, and Social Computing.

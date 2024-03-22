@@ -19,8 +19,7 @@ Teaching
 ======
 - **Undergraduate Teaching Assistant**
   <br/>
-  CS124 Intro to Computer Science
-  Fall 2023, Spring 2024
+  CS124 Intro to Computer Science: Fall 2023, Spring 2024
   <br/>
 
 Hornor and Awards
@@ -33,5 +32,6 @@ Publication
 ======
 - Nothing here!
 
-
+<br/>
+<br/>
 <a href="https://clustrmaps.com/site/1byyf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3scl2ViUly0oevD3xKb9JcCIfg9FAQ-HID57c2clDFQ&cl=ffffff" /></a>

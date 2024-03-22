@@ -6,22 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Junior Computer Science student at the University of Illinois Urbana Champaign, with a passion for software development and programming. My research interests include AI and ML, Interactive Computing, and Social Computing.
+I am a Junior Computer Science student at the University of Illinois Urbana Champaign, with a passion for software development and programming. My research interests include AI and ML, Interactive Computing, and Social Computing. Please feel free to contact me!
 <br/>
 <br/>
 
 
 News
 ======
-- (Mar. 2024) 
+- (Mar. 2024) Everything looks good so far
 
 Teaching
 ======
 - **Undergraduate Teaching Assistant**
   <br/>
   CS124 Intro to Computer Science
-  <br/>
-  <br/>
   Fall 2023, Spring 2024
   <br/>
 
@@ -29,5 +27,9 @@ Hornor and Awards
 ======
 - James Scholar of University of Illinois Urbana Champaign, 2024
 - Chicaco City Scholar, UIUC, 2024
-- Dean's list of Grainger College of Engineering, UIUC(top 20%), 2023
+- Dean's list of Grainger College of Engineering, UIUC, 2023
 
+Publication
+======
+- Nothing here!
+<a href='https://clustrmaps.com/site/1bpcz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=H_rmQ74PzdkUNlANtUmgRXjPSpOOYZFUaRnZHpKaXyE'/></a>

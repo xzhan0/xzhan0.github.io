@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014 -->
+* B.S. in Computer Science, University of Illinois Urbana Champaign, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Undergraduate Teaching Assistant
+  * University of Illinois Urbana Champaign, department of Computer Science
+  * For course CS124: Introduction to Computer Science
+  * Instructor: Geoffrey Challen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Undergraduate Teaching Assistant
+  * University of Illinois Urbana Champaign, department of Computer Science
+  * For course CS124: Introduction to Computer Science
+  * Supervisor: Geoffrey Challen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Assistant
+  * Supervisor: 
   
-Skills
+Research Area
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Interactive Computing 
+* Social Computing
+  * A 2.1
+  * B 2.2
+  * C 2.3
+* Artificial intelligence
 
 Publications
 ======
@@ -47,18 +45,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

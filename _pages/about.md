@@ -32,4 +32,6 @@ Hornor and Awards
 Publication
 ======
 - Nothing here!
-<a href='https://clustrmaps.com/site/1bpcz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=H_rmQ74PzdkUNlANtUmgRXjPSpOOYZFUaRnZHpKaXyE'/></a>
+
+
+<a href="https://clustrmaps.com/site/1byyf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3scl2ViUly0oevD3xKb9JcCIfg9FAQ-HID57c2clDFQ&cl=ffffff" /></a>

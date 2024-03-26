@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Junior Computer Science student at the University of Illinois Urbana Champaign, with a passion for software development and programming. My research interests include AI and ML, Interactive Computing, and Social Computing. Please feel free to contact me!
+I am a Junior Computer Science student at the University of Illinois Urbana Champaign, with a passion for software development and programming. **My research interests include AI and ML, Interactive Computing, and Social Computing**. Please feel free to contact me!
 <br/>
 <br/>
 
@@ -22,15 +22,22 @@ Teaching
   CS124 Intro to Computer Science: Fall 2023, Spring 2024
   <br/>
 
+
+Research Projects
+======
+- **LLM content moderation**: This research project aims to leverage LLMs in identifying online moderated content and patterns of content moderation. 
+- Supervisor: Prof. Koustuv Saha
+
 Hornor and Awards
 ======
 - James Scholar of University of Illinois Urbana Champaign, 2024
 - Chicaco City Scholar, UIUC, 2024
 - Dean's list of Grainger College of Engineering, UIUC, 2023
 
+<!-- 
 Publication
 ======
-- Nothing here!
+- Nothing here! -->
 
 <br/>
 <br/>

@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Junior Computer Science student at the University of Illinois Urbana Champaign, with a passion for software development and programming. **My research interests include AI and ML, Interactive Computing, and Social Computing**. Please feel free to contact me!
+I am a Junior Computer Science student at the University of Illinois Urbana Champaign, with a passion for software development and programming. **My research interests include Artificial intelligence, Machine Learning, Interactive Computing, and Social Computing**. Please feel free to contact me!
 <br/>
 <br/>
 
@@ -23,10 +23,12 @@ Teaching
   <br/>
 
 
-Research Projects
+Research
 ======
-- **LLM content moderation**: This research project aims to leverage LLMs in identifying online moderated content and patterns of content moderation. 
-- Supervisor: Prof. Koustuv Saha
+- **LLM content moderation** (Supervised by Prof. Koustuv Saha)
+<br/>
+This research project aims to leverage LLMs in identifying online moderated content and patterns of content moderation. 
+
 
 Hornor and Awards
 ======

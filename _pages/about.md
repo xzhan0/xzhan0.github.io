@@ -5,21 +5,25 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-I am a Junior Computer Science student at the University of Illinois Urbana Champaign, with a passion for software development and programming. **My research interests include Artificial intelligence, Machine Learning, Interactive Computing, and Social Computing**. Please feel free to contact me!
+--- 
+I am a Junior Computer Science student at the University of Illinois Urbana Champaign, currently working with Professor [Koustuv Saha](https://koustuv.com/). **My research interests include Interactive Computing, and Social Computing, Artificial intelligence and Machine Learning**. Please feel free to contact me!
 <br/>
 <br/>
 
 
-News
+Education
 ======
-- (Mar. 2024) Everything looks good so far
+- **University of Illinois Urbana Champaign**
+<br/>
+Bachelor of Science in Computer Science (May 2025)
+GPA:4.0/4.0
 
 Teaching
 ======
 - **Undergraduate Teaching Assistant**
   <br/>
   CS124 Intro to Computer Science: Fall 2023, Spring 2024
+  Instructor: Geoffrey Challen
   <br/>
 
 

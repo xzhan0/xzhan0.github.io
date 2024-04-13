@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /teaching/
-title: teaching
+title: Teaching
 #description: Teaching 
 author_profile: true
-nav: true
+
 ---
 
 **CS124 Introduction to Computer Science**

@@ -1,12 +1,11 @@
 ---
 layout: archive
-#title: "CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
 
-
-Educations
+Education
 ======
 - **University of Illinois Urbana Champaign**
 <br/>

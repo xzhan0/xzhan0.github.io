@@ -8,7 +8,6 @@ author_profile: true
 **LLM content moderation** (Supervised by Prof. Koustuv Saha)\
 **2024 Spring, 2024 Summer at [OnCARE](https://oncare.cs.illinois.edu/people/) (Online and Connected AI Reflections) lab**
 
-
 - Conducted research under the supervision of Prof. Koustuv Saha focused on leveraging Large Language Models (LLMs) for content moderation purposes.
 
 - Developed and executed experiments over 60,000 pieces of content to assess the capability of LLMs in accurately identifying content suitable for removal.

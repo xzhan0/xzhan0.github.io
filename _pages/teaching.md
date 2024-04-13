@@ -7,6 +7,6 @@ author_profile: true
 
 ---
 
-**CS124 Introduction to Computer Science**
+**CS124 Introduction to Computer Science**\
 Fall 2023, Spring 2024\
-Professor Geoffrey Challen
+Professor [Geoffrey Challen](https://www.geoffreychallen.com/)

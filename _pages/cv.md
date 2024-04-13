@@ -5,8 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
-ww
-Education
+
+Educations
 ======
 - **University of Illinois Urbana Champaign**
 <br/>

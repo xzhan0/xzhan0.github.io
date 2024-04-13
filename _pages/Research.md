@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research2/
 author_profile: true
 ---
-
 **LLM content moderation** (Supervised by Prof. Koustuv Saha)\
 **2024 Spring, 2024 Summer at [OnCARE](https://oncare.cs.illinois.edu/people/) (Online and Connected AI Reflections) lab**
 

@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am a Junior Computer Science student at the University of Illinois Urbana Champaign, currently working with Professor [Koustuv Saha](https://koustuv.com/) at [OnCARE](https://oncare.cs.illinois.edu/people/) (Online and Connected AI Reflections) lab. **My research interests include Interactive Computing, Social Computing, Artificial intelligence and Machine Learning**.Please feel free to contact me!
+I am a Junior Computer Science student at the University of Illinois Urbana Champaign, currently working with Professor [Koustuv Saha](https://koustuv.com/) at [OnCARE](https://oncare.cs.illinois.edu/people/) (Online and Connected AI Reflections) lab. **My research interests include Interactive Computing, Social Computing, Artificial intelligence and Machine Learning**. Please feel free to contact me!
 <br/>
 <br/>
 
@@ -53,4 +53,4 @@ Publication
 
 <!-- <br/>
 <br/>
-<a href="https://clustrmaps.com/site/1byyf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3scl2ViUly0oevD3xKb9JcCIfg9FAQ-HID57c2clDFQ&cl=ffffff" /></a> --> -->
+<a href="https://clustrmaps.com/site/1byyf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3scl2ViUly0oevD3xKb9JcCIfg9FAQ-HID57c2clDFQ&cl=ffffff" /></a> --> 

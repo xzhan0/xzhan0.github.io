@@ -26,8 +26,8 @@ My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 
     <img class="photo" src="./images/supra2.jpg">
     <img class="photo" src="./images/supra3.jpg">
     <img class="photo" src="./images/supra4.jpg">
-    <img class="photo" src="./images/supra5.jpg">
-    <img class="photo" src="./images/supra6.jpg">
-    <img class="photo" src="./images/supra7.jpg">
-    <img class="photo" src="./images/supra8.jpg">
+    <img class="photo" src="/images/supra5.jpg">
+    <img class="photo" src="/images/supra6.jpg">
+    <img class="photo" src="/images/supra7.jpg">
+    <img class="photo" src="/images/supra8.jpg">
 </div>

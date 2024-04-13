@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /research2/
 author_profile: true
 ---
-
 
 ======
 **LLM content moderation** (Supervised by Prof. Koustuv Saha)

@@ -7,7 +7,7 @@ author_profile: true
 
 Education
 ======
-- **University of Illinois Urbana Champaign**
+- **University of Illinois Urbana Champaign** \
 **Siebel School of Computing and Data Science, Grainger College of Engineering**
 <br/>
 Bachelor of Science in Computer Science (May 2025)

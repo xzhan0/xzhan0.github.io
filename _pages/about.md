@@ -10,15 +10,14 @@ I am a Junior Computer Science student at the University of Illinois Urbana Cham
 <br/>
 <br/>
 
-<!-- 
-Education
-======
-- **University of Illinois Urbana Champaign**
-<br/>
-Bachelor of Science in Computer Science (May 2025)
-<br/>
-GPA:4.0/4.0
 
+News
+======
+- **Department of Computer Science is becoming the Siebel School of Computing and Data Science**[News link](https://grainger.illinois.edu/news/stories/66263)
+<br/>
+B.S. CS students will be automatically transfeerd to the new school, I am proud to be the first class of the undergraduate student in the school!
+
+<!-- 
 Teaching
 ======
 - **Undergraduate Teaching Assistant**

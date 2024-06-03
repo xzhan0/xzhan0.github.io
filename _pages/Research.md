@@ -36,7 +36,7 @@ within online conversations. Our approach will result in one LLM that can detect
       <img src="/images/UIUC.png" alt="U">
     </div>
     <div class="column">
-      <img src="/images/NCSA.png" alt="N">
+      <img src="/images/ncsa.png" alt="N">
     </div>
   </div>
   <hr style="color:rgb(218, 218, 218);">

@@ -11,31 +11,34 @@ author_profile: true
 - **2024 Summer(Ongoing):** Conduct research to develop a framework drawing on Mixture of Experts (MoE) to detect undesirable posts
 within online conversations. Our approach will result in one LLM that can detect posts that violate platform-wide macro-norms, several LLMs that identify meso-norm violations on clusters on communities, and several community-specific LLMs to detect micro-norm violations. 
 
-<a name="collaborators" ;="" style="color:#40A6FF;">
-          <style>
-            .column {
-              float: left;
-              width: 25%;
-            }
-            .row::after {
-              content: "";
-              clear: both;
-              display: table;
-            }
-          </style>
-          <div class="row">
-            <div class="column">
-              <img src="/images/Amazon.png" alt="A" style="width:100%">
-            </div>
-            <div class="column">
-          <img src="/images/NCSA.png" alt="N" style="width:100%">
-        </div>
-        <div class="column">
-          <img src="/images/UIUC.png" alt="U" style="width:100%">
-        </div>
-          </div>
-          <hr style="color:rgb(218, 218, 218);">
-          <div style="text-align: center; font-size: 18px;"><small>Last update: 6/2024</small>
-          </div>
-          <br>
+<a name="collaborators" style="color:#40A6FF;">
+  <style>
+    .row {
+      display: flex;
+    }
+    .column {
+      flex: 1;
+      padding: 5px; /* Optional: adds some space between images */
+    }
+    .column img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+  <div class="row">
+    <div class="column">
+      <img src="/images/Amazon.png" alt="A">
+    </div>
+    <div class="column">
+      <img src="/images/NCSA.png" alt="N">
+    </div>
+    <div class="column">
+      <img src="/images/UIUC.png" alt="U">
+    </div>
+  </div>
+  <hr style="color:rgb(218, 218, 218);">
+  <div style="text-align: center; font-size: 18px;">
+    <small>Last update: 6/2024</small>
+  </div>
+  <br>
 </a>

@@ -25,7 +25,7 @@ within online conversations. Our approach will result in one LLM that can detect
     }
     .column img {
       max-width: 100%;
-      height: 100%;
+      height: 90%;
     }
   </style>
   <div class="row">

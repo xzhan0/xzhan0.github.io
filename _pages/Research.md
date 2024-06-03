@@ -11,7 +11,7 @@ author_profile: true
 - **2024 Summer(Ongoing):** Conduct research to develop a framework drawing on Mixture of Experts (MoE) to detect undesirable posts
 within online conversations. Our approach will result in one LLM that can detect posts that violate platform-wide macro-norms, several LLMs that identify meso-norm violations on clusters on communities, and several community-specific LLMs to detect micro-norm violations. 
 
-<a name="collaborators" style="color:#40A6FF;">
+<a name="collaborators" style="color:#40A6FF;"> Past and Current Collaborators </a>
   <style>
     .row {
       display: flex;
@@ -21,8 +21,9 @@ within online conversations. Our approach will result in one LLM that can detect
       padding: 5px; /* Optional: adds some space between images */
     }
     .column img {
-      width: 100%;
-      height: auto;
+      width: 100px; /* Set a fixed width */
+      height: 100px; /* Set a fixed height */
+      object-fit: cover; /* Ensures the image covers the area */
     }
   </style>
   <div class="row">
@@ -41,4 +42,4 @@ within online conversations. Our approach will result in one LLM that can detect
     <small>Last update: 6/2024</small>
   </div>
   <br>
-</a>
+

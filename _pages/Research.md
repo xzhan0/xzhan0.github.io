@@ -25,17 +25,17 @@ within online conversations. Our approach will result in one LLM that can detect
           </style>
           <div class="row">
             <div class="column">
-              <img src="/images/Amazon.jpg" alt="MSR" style="width:100%">
+              <img src="/images/Amazon.png" alt="A" style="width:100%">
             </div>
             <div class="column">
-          <img src="/images/NCSA.jpg" alt="ANL" style="width:100%">
+          <img src="/images/NCSA.png" alt="N" style="width:100%">
         </div>
         <div class="column">
-          <img src="/images/UIUC.jpg" alt="ORNL" style="width:100%">
+          <img src="/images/UIUC.png" alt="U" style="width:100%">
         </div>
           </div>
           <hr style="color:rgb(218, 218, 218);">
-          <div style="text-align: center; font-size: 18px;"><small>Last update: 2/2024</small>
+          <div style="text-align: center; font-size: 18px;"><small>Last update: 6/2024</small>
           </div>
           <br>
-        </a>
+</a>

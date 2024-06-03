@@ -15,18 +15,18 @@ within online conversations. Our approach will result in one LLM that can detect
   <style>
     .row {
       display: flex;
-      justify-content: space-between; /* Ensures space between images */
-      align-items: center; /* Centers images vertically */
+      justify-content: space-between;
+      align-items: center;
     }
     .column {
       flex: 1;
-      text-align: center; /* Centers images horizontally */
-      padding: 5px; /* Optional: adds some space around images */
+      padding: 5px;
+      text-align: center;
     }
     .column img {
-      width: 100px; /* Fixed width */
-      height: 100px; /* Fixed height */
-      object-fit: contain; /* Ensures the whole image fits within the area */
+      max-width: 100%; /* Ensures images fill the column */
+      max-height: 100px; /* Ensures images have a uniform height */
+      height: auto;
       display: block;
       margin: 0 auto;
     }

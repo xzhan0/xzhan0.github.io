@@ -25,7 +25,7 @@ within online conversations. Our approach will result in one LLM that can detect
     }
     .column img {
       max-width: 100%;
-      height: auto;
+      height: 100%;
     }
   </style>
   <div class="row">
@@ -33,15 +33,15 @@ within online conversations. Our approach will result in one LLM that can detect
       <img src="/images/Amazon1.png" alt="A">
     </div>
     <div class="column">
-      <img src="/images/NCSA.png" alt="N">
+      <img src="/images/UIUC.png" alt="U">
     </div>
     <div class="column">
-      <img src="/images/UIUC.png" alt="U">
+      <img src="/images/NCSA.png" alt="N">
     </div>
   </div>
   <hr style="color:rgb(218, 218, 218);">
   <div style="text-align: center; font-size: 18px;">
-    <small>Last update: 6/2024</small>
+    <small>Last update: 6/2024.</small>
   </div>
   <br>
 

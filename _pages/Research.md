@@ -15,25 +15,22 @@ within online conversations. Our approach will result in one LLM that can detect
   <style>
     .row {
       display: flex;
-      justify-content: space-between;
-      align-items: center;
     }
     .column {
       flex: 1;
       padding: 5px;
-      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     .column img {
-      max-width: 100%; /* Ensures images fill the column */
-      max-height: 100px; /* Ensures images have a uniform height */
+      max-width: 100%;
       height: auto;
-      display: block;
-      margin: 0 auto;
     }
   </style>
   <div class="row">
     <div class="column">
-      <img src="/images/Amazon.png" alt="A">
+      <img src="/images/Amazon1.png" alt="A">
     </div>
     <div class="column">
       <img src="/images/NCSA.png" alt="N">

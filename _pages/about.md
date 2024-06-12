@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am a Junior Computer Science student at the University of Illinois Urbana Champaign, currently working with Professor [Koustuv Saha](https://koustuv.com/) at [OnCARE](https://oncare.cs.illinois.edu/people/) (Online and Connected AI Reflections) lab. **My research interests include Interactive Computing, Artificial intelligence and Machine Learning**. More specifically, I am focusing on the following areas: **Large Language Model Security, Content Moderation and Human AI Collaboration** My email is zhan39 AT illinois DOT edu, Please feel free to contact me!
+I am a Junior Computer Science student at the University of Illinois Urbana Champaign, currently working with Professor [Koustuv Saha](https://koustuv.com/) at [OnCARE](https://oncare.cs.illinois.edu/people/) (Online and Connected AI Reflections) lab. **My research interests include Interactive Computing, Artificial intelligence and Machine Learning**. More specifically, I am focusing on the following areas: **Human AI Collaboration, Content Moderation and Large Language Model Security** My email is zhan39 AT illinois DOT edu, Please feel free to contact me!
 <br/>
 <br/>
 

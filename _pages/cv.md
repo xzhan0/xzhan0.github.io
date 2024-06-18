@@ -22,6 +22,10 @@ Teaching
   <br/>
   Instructor: Geoffrey Challen
   <br/>
+  CS415 Game Development: Fall 2024
+  <br/>
+  Instructor: Eric Shaffer
+  <br/>
 
 
 Research

@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 **CS124 Introduction to Computer Science, UIUC**\
-Fall 2023, Spring 2024\
+Fall 2023, Spring 2024, Fall 2024\
 Professor [Geoffrey Challen](https://www.geoffreychallen.com/)
 
 **CS415 Game Development, UIUC**\

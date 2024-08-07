@@ -15,7 +15,7 @@ News
 ======
 - **New CA Appointment for Fall 2024** (Aug 2024)
 <br/>
-I will be servering as an undergraduate TA at CS124 Introduction to Computer Science and CS415 Game Development for Fall 2024. Excited for a great semester ahead!
+I will be serving as an undergraduate TA at CS124 Introduction to Computer Science and CS415 Game Development for Fall 2024. Excited for a great semester ahead!
 
 - **Department of Computer Science is becoming the Siebel School of Computing and Data Science** [(Apr 2024)](https://grainger.illinois.edu/news/stories/66263)
 <br/>

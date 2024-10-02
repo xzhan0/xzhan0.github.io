@@ -7,7 +7,7 @@ nav: false
 nav_order: 7
 ---
 
-I like exploring NLP and Human AI collaborations. Details would be updated on Oct. 7
+I like exploring NLP and Human AI collaborations. I am currently working on research about **Content Moderation with LLM**, **Code Generation with LLM** and **Multi Agent Systems**. Details would be updated on Oct. 7
 
 
 <style>
@@ -62,7 +62,7 @@ I like exploring NLP and Human AI collaborations. Details would be updated on Oc
 <div class="collaborators-section">
     <h2>Past and Current Collaborators</h2>
     <div class="logo-container">
-        <img src="../assets/img/NCSA.png" alt="Collaborator Logo 1">
+        <img src="../assets/img/ncsa.png" alt="Collaborator Logo 1">
         <img src="../assets/img/UIUC.png" alt="Collaborator Logo 2">
         <img src="../assets/img/AIR.png" alt="Collaborator Logo 3">
         <img src="../assets/img/Amazon1.png" alt="Collaborator Logo 4">

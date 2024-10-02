@@ -7,10 +7,9 @@ nav: false
 nav_order: 7
 ---
 
-# Undergraduate Research
-I like exploring NLP and Human AI collaborations, 
+I like exploring NLP and Human AI collaborations. Details would be updated on Oct. 7
 
-# Collaborations
+
 <style>
     body {
         margin: 0;

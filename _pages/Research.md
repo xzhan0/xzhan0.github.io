@@ -7,10 +7,10 @@ nav: false
 nav_order: 7
 ---
 
-I like exploring NLP and Human AI collaborations. I am currently working on research about **Content Moderation with LLM**, **Code Generation with LLM** and **Multi Agent Systems**. Details would be updated on Oct. 7
+I like exploring NLP and Human AI collaborations. I am currently working on research about **Content Moderation with LLM**, **Code Generation with LLM** and **Multi Agent Systems**. Details would be updated on Oct. 7 <br/>
 
 
-<style>
+<!-- <style>
     body {
         margin: 0;
         display: flex;
@@ -68,4 +68,4 @@ I like exploring NLP and Human AI collaborations. I am currently working on rese
         <img src="../assets/img/Amazon1.png" alt="Collaborator Logo 4">
     </div>
 </div>
-<a href="https://clustrmaps.com/site/1byyf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3scl2ViUly0oevD3xKb9JcCIfg9FAQ-HID57c2clDFQ&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1byyf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3scl2ViUly0oevD3xKb9JcCIfg9FAQ-HID57c2clDFQ&cl=ffffff" /></a> -->

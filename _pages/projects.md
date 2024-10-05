@@ -28,7 +28,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Content moderation with Generative AI</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">UIUC</span> </p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">University of Illinois Urbana Champaign</span> </p>
           </div>
         </div>
       </div>
@@ -42,7 +42,21 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Code Generation</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">NCSA</span> </p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">National Center for Supercomputing Applications</span> </p>
+          </div>
+        </div>
+      </div>
+            <!-- Third Research Project -->
+      <div class="col-12 mb-4">
+        <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
+          <!-- Image on the left -->
+          <a href="1_project" class="me-5" style="flex-shrink: 0;">
+            <img src="/assets/img/AIR.png" class="img-fluid" alt="Research Project 1 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+          </a>
+          <!-- Text on the right -->
+          <div style="flex-grow: 1;">
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Simulation Framework for Embodied Conversational Agents in Psychological Counseling</h5>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #7c2e9a;">Tsinghua University</span>, submitted to ICRA' 25 </p>
           </div>
         </div>
       </div>

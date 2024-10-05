@@ -13,7 +13,7 @@ horizontal: false
 
 <!-- pages/projects.md -->
 
-<!-- <div class="projects">
+<div class="projects">
   <!-- Research Projects Section -->
   <h2 class="category mb-4">Research Projects</h2>
   <div class="container">
@@ -48,7 +48,7 @@ horizontal: false
         </div>
       </div>
     </div>
-  </div> -->
+  </div> 
   
   <!-- Course Projects Section -->
   <h2 class="category mb-4">Course Projects</h2>
@@ -63,7 +63,7 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Stock Predict Website</h5>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Stock Predict Website <span style="color: red;">-Team Leader</span> </h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">The stock prediction website project involved building a full-stack application using Flask, Python, and PyTorch. It integrated machine learning models to predict stock trends, with a focus on creating responsive user interfaces and optimizing performance and user engagement​</p>
           </div>
         </div>
@@ -78,7 +78,7 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">GPAMAXXING</h5>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">GPAMAXXING <span style="color: red;">-Team Leader</span></h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">The GPAMAXXING developed a GPA management system with real-time calendar tracking, dynamic class management, and interactive data visualizations to help students track GPA trends and make informed academic decisions​</p>
           </div>
         </div>

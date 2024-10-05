@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research and Development Projects
+title: Research
 permalink: /projects/
 #description: A growing collection of your cool projects.
 nav: true
@@ -41,22 +41,37 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Multi-agent System for Code Generation</h5>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Multi-agent System for Automating Complicated Tasks</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">National Center for Supercomputing Applications</span> </p>
           </div>
-        </div>
+        </div> 
+      </div>
+        <!-- Fourth Research Project -->
+      <div class="col-12 mb-4">
+        <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
+          <!-- Image on the left -->
+          <a href="2_project" class="me-5" style="flex-shrink: 0;">
+            <img src="/assets/img/ncsa.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+          </a>
+          <!-- Text on the right -->
+          <div style="flex-grow: 1;">
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Decomposing and Optimizing Complexity in Multi-agent Systems</h5>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">National Center for Supercomputing Applications</span> </p>
+          </div>
+        </div> 
       </div>
             <!-- Third Research Project -->
       <div class="col-12 mb-4">
         <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
           <!-- Image on the left -->
           <a href="1_project" class="me-5" style="flex-shrink: 0;">
-            <img src="/assets/img/Tsinghua_University_Logo.svg" class="img-fluid" alt="Research Project 3 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+            <img src="/assets/img/AIR.png" class="img-fluid" alt="Research Project 3 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Simulation Framework for Embodied Conversational Agents in Psychological Counseling</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #7c2e9a;">Tsinghua University</span>, submitted to ICRA' 25 </p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #7c2e9a;">Tsinghua University</span> </p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Submitted to 2025 IEEE International Conference on Robotics and Automation (ICRA' 25) </p>
           </div>
         </div>
       </div>

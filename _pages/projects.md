@@ -15,7 +15,7 @@ horizontal: false
 
 <div class="projects">
   <!-- Research Projects Section -->
-  <h2 class="category mb-4">Research Projects</h2>
+<h2 class="category mb-4">Research Projects</h2>
   <div class="container">
     <div class="row mb-4">
       <!-- First Research Project -->
@@ -27,12 +27,11 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">AI Chatbots for Mental Health Self-Management: Charting the Potential Harms of LLMs through Values of People with Lived Experiences</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">This project aimed to develop Zenny, an LLM-powered chatbot for depression self-management, enhancing NLP capabilities via OpenAI’s API. Key outcomes included improved user retention and personalized mental health support. Significant achievements were participant interviews and feedback analysis to refine chatbot responses​.</p>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Content moderation with Generative AI</h5>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">UIUC</span> </p>
           </div>
         </div>
       </div>
-      
       <!-- Second Research Project -->
       <div class="col-12 mb-4">
         <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
@@ -42,13 +41,13 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Technology Needs and Practices of Family Caregivers for Mental Wellbeing</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">This project focused on exploring mental health challenges among caregivers through interviews and qualitative coding. Key outcomes included identifying caregivers' concerns and needs, with thematic analysis highlighting patterns to inform support strategies.​</p>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Code Generation</h5>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">NCSA</span> </p>
           </div>
         </div>
       </div>
     </div>
-  </div> 
+  </div>
   
   <!-- Course Projects Section -->
   <h2 class="category mb-4">Course Projects</h2>

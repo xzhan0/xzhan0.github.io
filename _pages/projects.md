@@ -23,7 +23,7 @@ horizontal: false
         <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
           <!-- Image on the left -->
           <a href="1_project" class="me-5" style="flex-shrink: 0;">
-            <img src="/assets/img/Zenny1.png" class="img-fluid" alt="Research Project 1 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+            <img src="/assets/img/UIUC.png" class="img-fluid" alt="Research Project 1 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
@@ -37,7 +37,7 @@ horizontal: false
         <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
           <!-- Image on the left -->
           <a href="2_project" class="me-5" style="flex-shrink: 0;">
-            <img src="/assets/img/caregiver.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+            <img src="/assets/img/ncsa.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">

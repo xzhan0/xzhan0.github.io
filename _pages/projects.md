@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research and Development Projects
 permalink: /projects/
 #description: A growing collection of your cool projects.
 nav: true
@@ -41,7 +41,7 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Code Generation</h5>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Multi-agent System for Code Generation</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">National Center for Supercomputing Applications</span> </p>
           </div>
         </div>
@@ -51,7 +51,7 @@ horizontal: false
         <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
           <!-- Image on the left -->
           <a href="1_project" class="me-5" style="flex-shrink: 0;">
-            <img src="/assets/img/AIR.png" class="img-fluid" alt="Research Project 1 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+            <img src="/assets/img/Tsinghua_University_Logo.svg" class="img-fluid" alt="Research Project 3 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
@@ -64,7 +64,7 @@ horizontal: false
   </div>
   
   <!-- Course Projects Section -->
-  <h2 class="category mb-4">Course Projects</h2>
+  <h2 class="category mb-4">Development Projects</h2>
   <div class="container">
     <div class="row mb-4">
       <!-- First Course Project -->

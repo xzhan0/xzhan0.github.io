@@ -15,7 +15,7 @@ horizontal: false
 
 <div class="projects">
   <!-- Research Projects Section -->
-<h2 class="category mb-4">Research Projects</h2>
+<h2 class="category mb-4"><span style="color: #3fafff;">Research Projects</span></h2>
   <div class="container">
     <div class="row mb-4">
       <!-- First Research Project -->
@@ -79,7 +79,7 @@ horizontal: false
   </div>
   
   <!-- Course Projects Section -->
-  <h2 class="category mb-4">Development Projects</h2>
+  <h2 class="category mb-4"><span style="color: #3fafff;">Development Projects</span></h2>
   <div class="container">
     <div class="row mb-4">
       <!-- First Course Project -->

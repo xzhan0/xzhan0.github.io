@@ -28,7 +28,8 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Content moderation with Generative AI</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">University of Illinois Urbana Champaign</span> </p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #ff5f05;">University of Illinois Urbana Champaign</span> </p>
+              <p class="card-text" style="font-size: 1rem; color: #333;">Submitted to 2025  </p>
           </div>
         </div>
       </div>

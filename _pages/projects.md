@@ -29,7 +29,7 @@ horizontal: false
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">SLM-Mod: Small Language Models Surpass LLMs at Content Moderation</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #ff5f05;">University of Illinois Urbana Champaign</span> </p>
-              <p class="card-text" style="font-size: 1rem; color: #333;"><u><b>Xianyang Zhan</b></u>, Agam Goyal, Allen Chen, Eshwar Chandrasekharan, Koustuv Saha. <b>Under Review</b></p>
+              <p class="card-text" style="font-size: 1rem; color: #333;"><u><b>Xianyang Zhan</b></u>, Agam Goyal, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha. <b>Under Review</b></p>
           </div>
         </div>
       </div>

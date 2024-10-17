@@ -27,9 +27,9 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Content moderation with Generative AI</h5>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">SLM-Mod: Small Language Models Surpass LLMs at Content Moderation</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #ff5f05;">University of Illinois Urbana Champaign</span> </p>
-              <p class="card-text" style="font-size: 1rem; color: #333;">Submitted to 2025  </p>
+              <p class="card-text" style="font-size: 1rem; color: #333;">Under Review</p>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@ horizontal: false
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Simulation Framework for Embodied Conversational Agents in Psychological Counseling</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #7c2e9a;">Tsinghua University</span> </p>
-            <p class="card-text" style="font-size: 1rem; color: #333;">Submitted to 2025 IEEE International Conference on Robotics and Automation (ICRA' 25) </p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Under Review</p>
           </div>
         </div>
       </div>

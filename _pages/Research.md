@@ -1,16 +1,12 @@
 ---
 layout: page
 permalink: /research/
-title: Undergraduate Research
+title: Research
 description: 
-nav: false
+nav: true
 nav_order: 7
 ---
-
-I like exploring NLP and Human AI collaborations. I am currently working on research about **Content Moderation with LLM**, **Code Generation with LLM** and **Multi Agent Systems**. Details would be updated on Oct. 7 <br/>
-
-Current Research Project @ NCSA: 
-Current Research Project @ OnCARE: MOE for Content Moderation
+To be updated on Oct. 21
 
 <!-- <style>
     body {

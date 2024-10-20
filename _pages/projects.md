@@ -29,7 +29,7 @@ horizontal: false
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">SLM-Mod: Small Language Models Surpass LLMs at Content Moderation</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #ff5f05;">University of Illinois Urbana Champaign</span> </p>
-              <p class="card-text" style="font-size: 1rem; color: #333;"><u><b>Xianyang Zhan</b></u>, Agam Goyal, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha. <b>Under Review</b></p>
+              <p class="card-text" style="font-size: 1rem; color: #333;"><u><b>Xianyang Zhan<sup>*</sup></b></u>, Agam Goyal<sup>*</sup>, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha. <b>Under Review</b></p>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@ horizontal: false
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Simulation Framework for Embodied Conversational Agents in Psychological Counseling</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #7c2e9a;">Tsinghua University</span> </p>
-            <p class="card-text" style="font-size: 1rem; color: #333;">Lixiu Wu, Yuanrong Tang, Qisen Pan, <u><b>Xianyang Zhan</b></u>, Yuchen Han, Mingyang You, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <b>Under Review</b></p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Lixiu Wu<sup>*</sup>, Yuanrong Tang<sup>*</sup>, Qisen Pan, <u><b>Xianyang Zhan</b></u>, Yuchen Han, Mingyang You, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <b>Under Review</b></p>
           </div>
         </div>
       </div>

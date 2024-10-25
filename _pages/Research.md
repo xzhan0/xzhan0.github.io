@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-nav: false
+nav: true
 nav_order: 7
 ---
 Currently I have two research lines in AI: <span style="color: pink;">1. Scalable content moderation through language models and modular code generation frameworks. 2. Scalable language model applications for content moderation.</span>

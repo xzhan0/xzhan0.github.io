@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 description:
 ---
-To be updated on Oct. 21
+To be updated on Nov. 7
 
 I have multiple internship experience in Industry for sotfware and AI development ([NeuroMesh](https://www.nmesh.io/), *undisclosed startup*) and Academia for nlp and hci research ([UIUC](https://oncare.cs.illinois.edu/), [Tsinghua University](https://air.tsinghua.edu.cn/en/), [NCSA](https://spin.ncsa.illinois.edu/23-24-academic-year-interns/)).
 

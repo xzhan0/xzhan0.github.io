@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 7
 ---
-Currently I have two research lines in AI: <span style="color: pink;">1. Scalable content moderation through language models and modular code generation frameworks. 2. Scalable language model applications for content moderation.</span>
+Currently I have two research lines in AI: <span style="color: #FF69B4; font-weight: bold; text-shadow: 0 0 3px #FF69B4;">1. Scalable content moderation through language models and modular code generation frameworks. 2. Scalable language model applications for content moderation.</span>
 
 In content moderation, I emphasize adaptive, ethical solutions to support online communities. For code generation, I develop modular LLM frameworks to boost accuracy and adaptability in complex programming tasks.
 

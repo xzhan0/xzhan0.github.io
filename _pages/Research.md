@@ -8,7 +8,7 @@ nav_order: 7
 ---
 I am interested in the intersection of AI and human-computer interaction.
 
-Currently I have two research lines in AI: <span style="color: #FF69B4; font-weight: bold;">1. Scalable language model applications for content moderation. 2. LLM based modular code generation frameworks. </span> And I am also interested in developing multi-agent systems for AI these research lines.
+Currently I have two research lines in AI: <span style="color: #FF69B4; font-weight: bold;">1. Scalable language model applications for content moderation. 2. LLM based modular code generation frameworks. </span> And I am also interested in developing multi-agent systems for these research lines.
 
 
 

@@ -20,6 +20,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign. I work with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC and I am having my research internship with [Professor Haohan Wang](https://haohanwang.github.io/index.html) at [NCSA](https://spin.ncsa.illinois.edu/23-24-academic-year-interns/).
+I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign. I work with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC and I am having my research internship with [Professor Haohan Wang](https://haohanwang.github.io/index.html) at [NCSA](https://spin.ncsa.illinois.edu/24-25-academic-year-interns/).
 
 My research interests include Natrual Language Processing, Human AI Collaboration and AI for Social Good. My email is zhan39@illinois.edu, Please feel free to contact me!

@@ -20,6 +20,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign. I work with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC and I am having my research internship with [Professor Haohan Wang](https://haohanwang.github.io/index.html) at [NCSA](https://spin.ncsa.illinois.edu/24-25-academic-year-interns/). My research interests include Natrual Language Processing, Human AI Collaboration and AI for Social Good. My email is zhan39@illinois.edu, Please feel free to contact me! 
+I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign. I work with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC. My research interests include Natrual Language Processing, Human AI Collaboration and AI for Social Good. My email is zhan39@illinois.edu, Please feel free to contact me! 
 
-<span style="color: #FF69B4;">I will be physically located in Chicago, IL from January 2025 to May 2025 as a member of City Scholar, if you are interested in connecting with me at Chicago (I would love to visit Uchi, NU, UIC, UIUC-Chicago!), feel free to contact me via email or LinkedIn.</span>
+<span style="color: #b509ac;">I will be physically located in Chicago, IL from January 2025 to May 2025 as a member of City Scholar, if you are interested in connecting with me at Chicago (I would love to visit Uchi, NU, UIC, UIUC-Chicago!), feel free to contact me via email or LinkedIn.</span>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MSCS Admission
-date: 2024-11-11
+title: Uber SWE Internship
+date: 2024-11-27
 inline: true
 related_posts: false
 ---

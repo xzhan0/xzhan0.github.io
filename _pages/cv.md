@@ -12,4 +12,4 @@ I have multiple internship experience in Industry for sotfware and AI developmen
 
 <!-- ## Download My CV
 You can download my CV in PDF format by clicking the link below:
-[Download my CV](../assets/pdf/example_pdf.pdf) -->
+[Download my CV](../assets/pdf/cv.pdf) -->

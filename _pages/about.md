@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle1: Undergraduate student at <a href='https://https://illinois.edu/'>UIUC</a>, <a href='https://siebelschool.illinois.edu/'>Siebel School of Computing and Data Science</a>
+subtitle1: Undergraduate CS student at <a href='https://https://illinois.edu/'>UIUC</a>, <a href='https://siebelschool.illinois.edu/'>Siebel School of Computing and Data Science</a>
 subtitle2: Research Intern at <a href='https://www.ncsa.illinois.edu/people/staff-directory/?directory-search=Xianyang&submit=Search'>National Center for Supercomputing Applications </a>
 subtitle3: Software Engineer Intern at <a href='https://www.uberfreight.com/'>Uber Freight</a>
 

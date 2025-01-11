@@ -20,6 +20,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign. I work with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC. My research interests include Natrual Language Processing, Human AI Collaboration and AI for Social Good. My email is zhan39@illinois.edu, Please feel free to contact me! 
+My name is Xianyang (Sam) Zhan (詹先洋), I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign graduating in May 2025. I work with [Professor Koustuv Saha](https://koustuv.com/) at the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC. My research interests include Natrual Language Processing, Human AI Collaboration and AI for Social Good. My email is zhan39@illinois.edu, Please feel free to contact me! 
 
 <span style="color: #b509ac;">I will be physically located in Chicago, IL from January 2025 to May 2025 as a member of City Scholar, if you are interested in connecting with me at Chicago (I would love to campus visit Uchi, NU, UIC, UIUC-Chicago!), feel free to contact me via email or LinkedIn.</span>

@@ -29,7 +29,7 @@ horizontal: false
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">SLM-Mod: Small Language Models Surpass LLMs at Content Moderation</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Paper @ <span style="color: #ff5f05;">University of Illinois Urbana Champaign</span> </p>
-              <p class="card-text" style="font-size: 1rem; color: #333;"><u><b>Xianyang Zhan<sup>*</sup></b></u>, Agam Goyal<sup>*</sup>, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha. <b style="color: green;">Accepted to NAACL 2025 Main (Top 1.5% of the submission)</b><a href="https://arxiv.org/pdf/2410.13155" style="color: #3fafff;"> [PDF]</a></p>
+              <p class="card-text" style="font-size: 1rem; color: #333;"><u><b>Xianyang Zhan<sup>*</sup></b></u>, Agam Goyal<sup>*</sup>, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha. <b style="color: green;">Accepted to NAACL 2025 Main Conference (Top 1.5% of the submission)</b><a href="https://arxiv.org/pdf/2410.13155" style="color: #3fafff;"> [PDF]</a></p>
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Multi-agent System for Automating Complicated Tasks</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">Paper In Preparation @ <span style="color: #ff5f05;">National Center for Supercomputing Applications</span> </p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Paper (Under Review) @ <span style="color: #ff5f05;">National Center for Supercomputing Applications</span> </p>
           </div>
         </div> 
       </div>

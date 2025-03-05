@@ -33,8 +33,7 @@ Aug 2023 – May 2025
 
 
 # Work and Research Experience
-
-## Uber Freight
+### Uber Freight
 **Software Engineer Intern**  
 2025 Jan ~ Present
  - Carrier side pricing strategy and algorithm design
@@ -44,19 +43,19 @@ Aug 2023 – May 2025
    - Not disclosed
    - Impact (Increase in annual revenue for Uber): Not disclosed
 
-## National Center for Supercomputing Applications (NCSA)
+### National Center for Supercomputing Applications (NCSA)
 **Research Intern**  
 2024 Aug ~ 2024 Dec
  - Code Generation Research
    - Paper submitted to 2025 International Conference on Machine Learning (ICML’25)
 
-## Tsinghua University
+### Tsinghua University
 **Research Intern**  
 2024 May ~ 2024 Aug
  - Embodied Memory Generation Framework for Psychological Counseling Client Simulation
    - Paper submitted to 2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD’25)
 
-## Online and Connected AI Reflections Lab at UIUC 
+### Online and Connected AI Reflections Lab at UIUC 
 **Research Assistant**  
 2024 Jan ~ 2024 May
  - Language Models for Content Moderation

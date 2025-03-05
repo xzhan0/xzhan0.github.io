@@ -7,7 +7,8 @@ nav: true
 nav_order: 8
 ---
 
-My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 2021 to 2023 in Seattle, WA.
+My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 2021 to 2023 in Seattle, WA. 
+Generally, I visit Kirkland, Bellevue, Redmond, and Seattle twice a year (winter/summer).
 
 <style>
     /* Style for the photo grid */

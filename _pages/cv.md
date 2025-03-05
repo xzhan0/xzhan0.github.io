@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 description:
 ---
-I have multiple internship experience in Industry for sotfware and AI development and Academia for nlp and hci research. **I am actively seeking ~~SWE/MLE internships and research internship opportunities for summer 2025~~ full-time software engineering jobs starting in May 2025. Contact me (xianyangzhan@gmail.com, zhan39@illinois.edu) if you think I will be a good fit for a role in your team.**
+<!-- I have multiple internship experience in Industry for sotfware and AI development and Academia for nlp and hci research. **I am actively seeking ~~SWE/MLE internships and research internship opportunities for summer 2025~~ full-time software engineering jobs starting in May 2025. Contact me (xianyangzhan@gmail.com, zhan39@illinois.edu) if you think I will be a good fit for a role in your team.** -->
 <!-- ## Download My CV
 You can download my CV in PDF format by clicking the link below:
 [Download my CV](../assets/pdf/cv.pdf) -->
@@ -21,19 +21,20 @@ You can download my CV in PDF format by clicking the link below:
 
 # Education
 ### University of Illinois Urbana-Champaign ❤️
-**Master of Science in Computer Science (On leave)**  
-~~Aug 2024 – May 2026~~ 
-- Thesis Advisor: Koustuv Saha
-- NLP and HCI  
-
-### University of Illinois Urbana-Champaign ❤️
 **Bachelor of Science in Computer Science**  
 Aug 2023 – May 2025  
-- Highest Hornor in Computer Science (Top 3%)  
+- Highest Hornor in Computer Science (Top 3%) 
+- **Currently on the market! Email me if you think I will be a good fit for a role in your team**
+
+**~~Master of Science in Computer Science (On leave)~~** 
+
+~~Aug 2024 – May 2026~~ 
+- ~~Thesis Advisor: Koustuv Saha~~
+
 
 # Work and Research Experience
 
-### Uber Freight
+## Uber Freight
 **Software Engineer Intern**  
 2025 Jan ~ Present
  - Carrier side pricing strategy and algorithm design
@@ -43,19 +44,19 @@ Aug 2023 – May 2025
    - Not disclosed
    - Impact (Increase in annual revenue for Uber): Not disclosed
 
-### National Center for Supercomputing Applications (NCSA)
+## National Center for Supercomputing Applications (NCSA)
 **Research Intern**  
 2024 Aug ~ 2024 Dec
  - Code Generation Research
    - Paper submitted to 2025 International Conference on Machine Learning (ICML’25)
 
-### Tsinghua University
+## Tsinghua University
 **Research Intern**  
 2024 May ~ 2024 Aug
  - Embodied Memory Generation Framework for Psychological Counseling Client Simulation
    - Paper submitted to 2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD’25)
 
-### Online and Connected AI Reflections Lab at UIUC 
+## Online and Connected AI Reflections Lab at UIUC 
 **Research Assistant**  
 2024 Jan ~ 2024 May
  - Language Models for Content Moderation

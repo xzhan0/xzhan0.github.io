@@ -90,7 +90,7 @@ Aug 2023 – May 2025
 # Publication
 
 [1] SLM-Mod: Small Language Models Surpass LLMs at Content Moderation
-**Xianyang Zhan***, Agam Goyal*, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha
+**Xianyang Zhan**\*, Agam Goyal\*, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha
 **Accepted to  NAACL 2025 Main Conference (Top 1.5% of the submission, Oral Presentation)**
 
 [2] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation
@@ -102,7 +102,7 @@ Peiran Wang, Yaoning Yu, Ke Chen, **Xianyang Zhan**, Haohan Wang
 Under Review
 
 [4] Simulation Framework for Embodied Conversational Agents in Psychological Counseling
-Lixiu Wu*, Yuanrong Tang*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong.
+Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong.
 Under Review
 
 # Skills

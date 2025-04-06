@@ -89,20 +89,20 @@ Aug 2023 – May 2025
 
 # Publication
 
-[1] SLM-Mod: Small Language Models Surpass LLMs at Content Moderation
-**Xianyang Zhan**\*, Agam Goyal\*, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha
+[1] SLM-Mod: Small Language Models Surpass LLMs at Content Moderation <br />
+**Xianyang Zhan**\*, Agam Goyal\*, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha. <br />
 **Accepted to  NAACL 2025 Main Conference (Top 1.5% of the submission, Oral Presentation)**
 
-[2] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation
-Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang
+[2] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
+Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
 
-[3] Large Language Model-based Data Science Agent: A Survey
-Peiran Wang, Yaoning Yu, Ke Chen, **Xianyang Zhan**, Haohan Wang
+[3] Large Language Model-based Data Science Agent: A Survey <br />
+Peiran Wang, Yaoning Yu, Ke Chen, **Xianyang Zhan**, Haohan Wang. <br />
 Under Review
 
-[4] Simulation Framework for Embodied Conversational Agents in Psychological Counseling
-Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong.
+[4] Simulation Framework for Embodied Conversational Agents in Psychological Counseling <br />
+Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
 Under Review
 
 # Skills

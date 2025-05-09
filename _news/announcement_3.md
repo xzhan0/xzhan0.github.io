@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Serve as Annual NCSA Student Research Conference Organizing Committee
-date: 2024-10-01
+title: Uber Full Time SWE 
+date: 2025-05-07
 inline: true
 related_posts: false
 ---
 
-- **Serve as Annual NCSA Student Research Conference Organizing Committee**
+- **Uber Full Time SWE**
 <br/>
-I have accepted the invitation to join on the 3rd Annual NCSA Student Research Conference organizing committee.
+I have accepted an offer to work at Uber Freight as a full time Software Engineer II starting June 2025.

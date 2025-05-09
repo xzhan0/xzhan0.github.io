@@ -12,7 +12,7 @@ You can download my CV in PDF format by clicking the link below:
 [Download my CV](../assets/pdf/cv.pdf) -->
 # Xianyang Zhan
 
-### Software Engineer at Uber Freight
+### Software Engineer II at Uber Freight
 
   
 
@@ -55,7 +55,15 @@ Aug 2023 – May 2025
 
 ### Uber Freight
 
-**Software Engineer Intern** (2025 Jan ~ Present)
+**Software Engineer II** (2025 Jun ~ )
+
+- Freight carrier side pricing strategy and algorithm design
+
+- Machine learning model integration, deployment and experiment
+
+### Uber Freight
+
+**Software Engineer Intern** (2025 Jan ~ 2025 May)
 
 - Freight carrier side pricing strategy and algorithm design
 

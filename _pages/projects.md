@@ -30,11 +30,11 @@ Under Review
 # Acknowledgement
 I had the privilege of getting into formal research early during my undergraduate degree, which gave me the opportunity to explore and understand what research truly is—and why we pursue it. I want to sincerely thank [Weijiang Li (Harvard)](https://vickyli99.github.io/), without her guidance and encouragement, I wouldn’t have even considered stepping into the world of research.
 
-Speding three semesters in Champaign and one semester in Chicago allowed me to grow both academically and personally. I’m deeply grateful to [Prof. Koustuv Saha (UIUC)](https://koustuv.com/), [Prof. Eshwar Chandrasekharan (UIUC)](http://www.eshwarchandrasekharan.com/), and [Prof. Haohan Wang (UIUC, NCSA)](https://haohanwang.github.io/index.html) for their mentorship, trust, and collaboration. Their support helped shape my research direction and gave me the confidence to aim high. Finally, thanks to my collaborators and friends—especially [Melissa Shi (UIUC)](https://melissashi2002.github.io/), [Agam Goyal (UIUC)](https://agoyal0512.github.io/), [Yilun Chen (UIUC)](https://achieved-mind-fe1.notion.site/Allen-Chen-s-Past-Contribution-bb44c951dead489fb5350cdf0735f770), and others—who made the long hours and late nights worthwhile.
+Speding three semesters in Champaign and one semester in Chicago allowed me to grow both academically and personally. I’m deeply grateful to [Prof. Koustuv Saha (UIUC)](https://koustuv.com/), [Prof. Eshwar Chandrasekharan (UIUC)](http://www.eshwarchandrasekharan.com/), and [Prof. Haohan Wang (UIUC, NCSA)](https://haohanwang.github.io/index.html) for their mentorship, trust, and collaboration. Their support helped shape my research direction and gave me the confidence to aim high. Also, I want to say thanks to my collaborators and friends—especially [Melissa Shi (UIUC)](https://melissashi2002.github.io/), [Agam Goyal (UIUC)](https://agoyal0512.github.io/), [Yilun Chen (UIUC)](https://achieved-mind-fe1.notion.site/Allen-Chen-s-Past-Contribution-bb44c951dead489fb5350cdf0735f770), and others who made the long hours and late nights worthwhile.
 
-Later this summer, I’ll be joining Uber Freight as a Software Engineer II, focusing on algorithm and machine learning engineering for freight pricing. While I’m no longer a college student, I will stay engaged with research and continue learning and contributing.
+Later this summer, I’ll be joining Uber Freight as a Software Engineer II, focusing on algorithm, strategy and machine learning engineering for freight pricing. While I’m no longer a college student, I will stay engaged with research and continue learning and contributing.
 
-This isn’t the beginning of the end—but the end of the beginning.
+This isn't the beginning of the end, but the end of the beginning. 
 
 Xianyang Zhan <br />
 Seattle, May 2025

@@ -101,7 +101,7 @@ Aug 2023 – May 2025
 **Xianyang Zhan**\*, Agam Goyal\*, Yilun Chen, Eshwar Chandrasekharan, Koustuv Saha. <br />
 **Accepted to  NAACL 2025 Main Conference (Top 1.5% of the submission, <span style="color:rgb(255, 0, 0); font-weight: bold;">Oral Presentation</span>)**
 
-[2] MoMoE: Mixture of Moderation Experts Framework for AI-Assisted Online Governance <br />
+[2] MoMoE: Mixture of Moderation Experts Framework for AI-Assisted Online Governance  [[PDF]](https://arxiv.org/abs/2505.14483)<br />
 Agam Goyal, **Xianyang Zhan**, Yilun Chen, Koustuv Saha, Eshwar Chandrasekharan <br />
 Under Review
 

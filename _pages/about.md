@@ -18,6 +18,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-My name is Xianyang (Sam) Zhan (詹先洋), I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign graduating in May 2025. I work with [Professor Koustuv Saha](https://koustuv.com/) at the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC. My research interests include Natrual Language Processing, Human AI Collaboration and AI for Social Good. My email is zhan39@illinois.edu, Please feel free to contact me! 
+My name is Xianyang (Sam) Zhan (詹先洋), I am an incoming Software Engineer II at Uber Freight. Prior to Uber Freight, I received my Bachelor's degree in Computer Science at the University of Illinois Urbana-Champaign, advised by [Professor Koustuv Saha](https://koustuv.com/). I also worked at the National Center for Supercomputing Applications (NCSA) as a research intern in Fall 2024, advised by [Professor Haohan Wang](https://haohanwang.github.io/index.html). My research area is NLP X HCI.
 
-<span style="color: #b509ac;">I will join Uber Freight as a full time Software Engineer II starting in June 2025</span>
+<span style="color: #b509ac;">If you want to have a coffee chat with me at Chicago/Champaign/Seattle, please feel free to shoot me an email at xianyangzhan@gmail.com</span>

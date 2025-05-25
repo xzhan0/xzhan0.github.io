@@ -36,7 +36,7 @@ Aug 2023 – May 2025
 
 - Highest Hornor in Computer Science (Top 3%)
 
--  **Currently on the market! Email me if you think I will be a good fit for a role in your team**
+-  **~~Currently on the market! Email me if you think I will be a good fit for a role in your team~~**
 
   
 

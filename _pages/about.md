@@ -18,6 +18,8 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-My name is Xianyang (Sam) Zhan (詹先洋), I am an incoming Software Engineer II at Uber Freight. Prior to Uber Freight, I received my Bachelor's degree in Computer Science at the University of Illinois Urbana-Champaign, advised by [Professor Koustuv Saha](https://koustuv.com/). I also worked at the National Center for Supercomputing Applications (NCSA) as a research intern in Fall 2024, advised by [Professor Haohan Wang](https://haohanwang.github.io/index.html). My research area is NLP X HCI.
+My name is Xianyang (Sam) Zhan (詹先洋), I am an incoming Software Engineer II at Uber Freight, focusing on algorithm, strategy and machine learning engineering for freight pricing.
 
-<span style="color: #b509ac;">If you want to have a coffee chat with me at Chicago/Champaign/Seattle, please feel free to shoot me an email at xianyangzhan@gmail.com</span>
+Prior to Uber Freight, I received my Bachelor's degree in Computer Science at the University of Illinois Urbana-Champaign, advised by [Professor Koustuv Saha](https://koustuv.com/). I also worked at the National Center for Supercomputing Applications (NCSA) as a research intern in Fall 2024, advised by [Professor Haohan Wang](https://haohanwang.github.io/index.html). My research area is NLP X HCI.
+
+<span style="color: #b509ac;">Please feel free to shoot me an email at xianyangzhan@gmail.com if you want to have a coffee chat with me at Chicago/Champaign/Seattle. </span>

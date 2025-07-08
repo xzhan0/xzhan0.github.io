@@ -25,7 +25,7 @@ Under Review
 
 [5] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041v1)<br />
 Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
-Under Review
+arXiv:2410.22041
 
 # Acknowledgement
 I had the privilege of getting into formal research early during my undergraduate degree, which gave me the opportunity to explore and understand what research truly is—and why we pursue it. I want to sincerely thank [Weijiang Li (Harvard)](https://vickyli99.github.io/), without her guidance and encouragement, I wouldn’t have even considered stepping into the world of research.

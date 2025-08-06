@@ -19,7 +19,7 @@ Under Review
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
 
-[4] Large Language Model-based Data Science Agent: A Survey <br />
+[4] Large Language Model-based Data Science Agent: A Survey [[PDF]](https://arxiv.org/pdf/2508.02744)<br />
 Peiran Wang, Yaoning Yu, Ke Chen, **Xianyang Zhan**, Haohan Wang. <br />
 Under Review
 

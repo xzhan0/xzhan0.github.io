@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-- **UIUC MSCS Admission**
+- **Acceptance to EMNLP 2025 Main**
 <br/>
 Our paper MoMoE: Mixture of Moderation Experts Framework for AI-Assisted Online Governance is accepted to EMNLP 2025 Main conference.

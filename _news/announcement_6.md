@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acceptance to NAACL 2025
+title: Acceptance to NAACL 2025 Main
 date: 2025-01-22
 inline: true
 related_posts: false

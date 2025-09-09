@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /supra/
-title: Supra
+title: Yummi and Supra
 description: 
 nav: true
 nav_order: 8
 ---
 
-My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 2021 to 2023 in Seattle, WA. 
+My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 2021 to 2023 in Seattle, WA. Yummi would be with me starting in 2025 in Chicago.
 Generally, I visit Kirkland, Bellevue, Redmond, and Seattle twice a year (winter/summer).
 
 <style>
@@ -25,6 +25,7 @@ Generally, I visit Kirkland, Bellevue, Redmond, and Seattle twice a year (winter
         }
 </style>
 <div class="photo-grid">
+    <img class="photo" src="../assets/img/Yummi1.jpg">
     <img class="photo" src="../assets/img/supra1.jpg">
     <img class="photo" src="../assets/img/supra2.jpg">
     <img class="photo" src="../assets/img/supra6.jpg">

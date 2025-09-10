@@ -8,6 +8,7 @@ nav_order: 8
 ---
 
 My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 2021 to 2023 in Seattle, WA. A CUTE++ cat named ✨Yummi✨ would be with me starting in Oct 2025 in Chicago, IL.
+
 Generally, I visit Kirkland, Bellevue, Redmond, and Seattle twice a year (winter/summer).
 
 <style>

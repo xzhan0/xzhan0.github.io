@@ -57,17 +57,17 @@ Aug 2023 – May 2025
 
 **Software Engineer II** (2025 Jun ~ )
 
-- Freight carrier side pricing strategy and algorithm design
+- Worked on ML safe deployment, feature engineering and carrier pricing algorithms in freight pricing team
 
-- Machine learning model integration, deployment and experiment
+- Pricing strategy and algorithm design and implementation
 
 ### Uber Freight
 
 **Software Engineer Intern** (2025 Jan ~ 2025 May)
 
-- Freight carrier side pricing strategy and algorithm design
+- Collaborated with Applied Science and Data Science teams, implemented geo switch back experiment on pricing
 
-- Machine learning model integration, deployment and experiment
+- Freight carrier side pricing strategy and algorithm design, machine learning model integration, deployment and experiment
 
   
 
@@ -110,8 +110,8 @@ Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
 
 [4] Large Language Model-based Data Science Agent: A Survey [[PDF]](https://arxiv.org/pdf/2508.02744)<br />
-Peiran Wang, Yaoning Yu, Ke Chen, **Xianyang Zhan**, Haohan Wang. <br />
-Under Review
+Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
+arXiv:2508.02744
 
 [5] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041v1)<br />
 Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />

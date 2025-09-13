@@ -29,6 +29,8 @@ Generally, I visit Kirkland, Bellevue, Redmond, and Seattle twice a year (winter
     <img class="photo" src="../assets/img/Yummi1.jpg">
     <img class="photo" src="../assets/img/Yummi2.jpg">
     <img class="photo" src="../assets/img/Yummi3.jpg">
+    <img class="photo" src="../assets/img/Yummi4.jpg">
+    <img class="photo" src="../assets/img/Yummi5.jpg">
     <img class="photo" src="../assets/img/supra1.jpg">
     <img class="photo" src="../assets/img/supra2.jpg">
     <img class="photo" src="../assets/img/supra6.jpg">

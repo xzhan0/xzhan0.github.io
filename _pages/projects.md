@@ -13,7 +13,7 @@ description:
 
 [2] MoMoE: Mixture of Moderation Experts Framework for AI-Assisted Online Governance [[PDF]](https://arxiv.org/pdf/2505.14483)<br />
 Agam Goyal, **Xianyang Zhan**, Yilun Chen, Koustuv Saha, Eshwar Chandrasekharan <br />
-**Accepted to EMNLP 2025 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 1% of the submissio, Oral Presentation</span>)**
+**Accepted to EMNLP 2025 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 1% of the submission, Oral Presentation</span>)**
 
 [3] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />

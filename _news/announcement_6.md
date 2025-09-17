@@ -8,4 +8,4 @@ related_posts: false
 
 - **Acceptance to NAACL 2025 Main**
 <br/>
-Our paper SLM-Mod: Small Language Models Surpass LLMs at Content Moderation is accepted to NAACL 2025 Main conference, and selected as oral presentation.
+Our paper SLM-Mod: Small Language Models Surpass LLMs at Content Moderation is accepted to NAACL 2025 Main conference and selected as oral presentation.

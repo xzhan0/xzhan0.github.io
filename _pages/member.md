@@ -185,7 +185,7 @@ nav_order: 9
         <div class="leader-container">
             <div class="member-card leader">
                 <img src="../assets/img/prof_pic.jpg" class="headshot" alt="Me">
-                <div class="member-name"><a href="https://xzhan0.github.io/" target="_blank">Me</a></div>
+                <div class="member-name"><a href="https://xzhan0.github.io/" target="_blank">Xianyang Zhan</a></div>
                 <div class="member-role">Leader</div>
             </div>
         </div>

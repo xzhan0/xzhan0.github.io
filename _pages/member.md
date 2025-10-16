@@ -209,13 +209,13 @@ nav_order: 9
             <div class="member-card">
                 <img src="../assets/img/Yummi0.jpg" class="headshot" alt="Yummi">
                 <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Yummi</a></div>
-                <div class="member-role">Team Member</div>
+                <div class="member-role">Team Member (2025-)</div>
             </div>
             
             <div class="member-card">
                 <img src="../assets/img/supra1.jpg" class="headshot" alt="Supra">
                 <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Supra</a></div>
-                <div class="member-role">Senior Team Member</div>
+                <div class="member-role">Senior Team Member (2021-)</div>
             </div>
         </div>
     </div>

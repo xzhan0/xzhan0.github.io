@@ -194,7 +194,7 @@ nav_order: 9
             <div class="member-card leader">
                 <img src="../assets/img/prof_pic.jpg" class="headshot" alt="Me">
                 <div class="member-name"><a href="https://xzhan0.github.io/" target="_blank">Xianyang Zhan</a></div>
-                <div class="member-role">Leader</div>
+                <div class="member-role">Manager</div>
             </div>
         </div>
         
@@ -215,7 +215,7 @@ nav_order: 9
             <div class="member-card">
                 <img src="../assets/img/supra1.jpg" class="headshot" alt="Supra">
                 <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Supra</a></div>
-                <div class="member-role">Team Member</div>
+                <div class="member-role">Senior Team Member</div>
             </div>
         </div>
     </div>

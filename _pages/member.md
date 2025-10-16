@@ -8,7 +8,6 @@ nav_order: 9
 ---
 
 
-<title>Our Team</title>
 <style>
     * {
         margin: 0;
@@ -18,7 +17,7 @@ nav_order: 9
 
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background: white;  
+        background: white;
         min-height: 100vh;
         display: flex;
         align-items: center;
@@ -47,7 +46,7 @@ nav_order: 9
     }
 
     .member-card {
-        linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         border-radius: 20px;
         padding: 30px;
         box-shadow: 0 10px 30px rgba(0,0,0,0.3);
@@ -87,7 +86,6 @@ nav_order: 9
     .member-name {
         font-size: 1.8em;
         font-weight: bold;
-        color: white;
         margin-bottom: 10px;
     }
 
@@ -98,8 +96,8 @@ nav_order: 9
     }
 
     .member-name a:hover {
-    color: #f0f0f0;
-    text-shadow: 0 2px 8px rgba(255,255,255,0.5);
+        color: #f0f0f0;
+        text-shadow: 0 2px 8px rgba(255,255,255,0.5);
     }
 
     .member-role {
@@ -223,3 +221,4 @@ nav_order: 9
         </div>
     </div>
 </div>
+

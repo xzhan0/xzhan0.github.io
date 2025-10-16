@@ -189,7 +189,6 @@ nav_order: 9
 
 
 <div class="container">
-    <h1>Our Team</h1>
     <div class="org-chart">
         <div class="leader-container">
             <div class="member-card leader">

@@ -18,7 +18,7 @@ nav_order: 9
 
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: white;  
         min-height: 100vh;
         display: flex;
         align-items: center;
@@ -33,10 +33,10 @@ nav_order: 9
 
     h1 {
         text-align: center;
-        color: white;
+        color: #667eea;
         font-size: 2.5em;
         margin-bottom: 60px;
-        text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
     }
 
     .org-chart {
@@ -47,7 +47,7 @@ nav_order: 9
     }
 
     .member-card {
-        background: white;
+        linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         border-radius: 20px;
         padding: 30px;
         box-shadow: 0 10px 30px rgba(0,0,0,0.3);
@@ -80,20 +80,31 @@ nav_order: 9
         object-fit: cover;
         margin: 0 auto 20px;
         display: block;
-        border: 4px solid #667eea;
+        border: 4px solid white;
         box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     }
 
     .member-name {
         font-size: 1.8em;
         font-weight: bold;
-        color: #333;
+        color: white;
         margin-bottom: 10px;
+    }
+
+    .member-name a {
+        color: white;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .member-name a:hover {
+    color: #f0f0f0;
+    text-shadow: 0 2px 8px rgba(255,255,255,0.5);
     }
 
     .member-role {
         font-size: 1.1em;
-        color: #667eea;
+        color: white;
         font-weight: 600;
     }
 
@@ -111,7 +122,7 @@ nav_order: 9
     .vertical-top {
         width: 3px;
         height: 70px;
-        background: white;
+        background: #667eea;
         position: absolute;
         top: 0;
         left: 50%;
@@ -122,7 +133,7 @@ nav_order: 9
     .horizontal {
         width: 400px;
         height: 3px;
-        background: white;
+        background: #667eea;
         position: absolute;
         top: 70px;
         left: 50%;
@@ -133,7 +144,7 @@ nav_order: 9
     .vertical-left {
         width: 3px;
         height: 50px;
-        background: white;
+        background: #667eea;
         position: absolute;
         top: 70px;
         left: calc(50% - 200px);
@@ -142,7 +153,7 @@ nav_order: 9
     .vertical-right {
         width: 3px;
         height: 50px;
-        background: white;
+        background: #667eea;
         position: absolute;
         top: 70px;
         right: calc(50% - 200px);

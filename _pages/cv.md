@@ -115,7 +115,7 @@ arXiv:2508.02744
 
 [5] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041v1)<br />
 Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
-arXiv:2410.22041
+**Accepted to AAAI 2026 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Acceptance rate 17.6%</span>)**
 
 # Skills
 

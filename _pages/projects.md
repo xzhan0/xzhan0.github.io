@@ -15,17 +15,17 @@ description:
 Agam Goyal, **Xianyang Zhan**, Yilun Chen, Koustuv Saha, Eshwar Chandrasekharan <br />
 **Accepted to EMNLP 2025 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 1% of the submission, Oral Presentation</span>)**
 
-[3] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
-Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
-Under Review
+[3] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041v1)<br />
+Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
+**Accepted to AAAI 2026 Conference (<span style="font-weight: bold;">Acceptance rate 17.6%</span>)**
 
 [4] Large Language Model-based Data Science Agent: A Survey [[PDF]](https://arxiv.org/pdf/2508.02744)<br />
 Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 arXiv:2508.02744
 
-[5] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041v1)<br />
-Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
-**Accepted to AAAI 2026 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Acceptance rate 17.6%</span>)**
+[5] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
+Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
+Under Review
 
 # Acknowledgement
 I had the privilege of getting into formal research early during my undergraduate degree, which gave me the opportunity to explore and understand what research truly is—and why we pursue it. I want to sincerely thank [Weijiang Li (Harvard)](https://vickyli99.github.io/), without her guidance and encouragement, I wouldn’t have even considered stepping into the world of research.

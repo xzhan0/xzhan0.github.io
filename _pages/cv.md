@@ -105,7 +105,7 @@ Aug 2023 – May 2025
 Agam Goyal, **Xianyang Zhan**, Yilun Chen, Koustuv Saha, Eshwar Chandrasekharan <br />
 **Accepted to EMNLP 2025 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 1% of the submission, Oral Presentation</span>)**
 
-[3] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041v1)<br />
+[3] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041)<br />
 Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
 **Accepted to AAAI 2026 Conference (<span style="font-weight: bold;">Acceptance rate 17.6%</span>)**
 

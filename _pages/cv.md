@@ -117,6 +117,10 @@ Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
 
+[6] Detecting Community-Valued Content: A Systematic Comparison of Feature-Based and Language Model Approaches <br />
+Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
+Under Review
+
 # Skills
 
 I know nobody cares about this section, so I just put down some random key words here

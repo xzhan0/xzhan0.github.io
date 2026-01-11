@@ -27,6 +27,10 @@ Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
 
+[6] Detecting Community-Valued Content: A Systematic Comparison of Feature-Based and Language Model Approaches <br />
+Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
+Under Review
+
 # Acknowledgement
 I had the privilege of getting into formal research early during my undergraduate degree, which gave me the opportunity to explore and understand what research truly is—and why we pursue it. I want to sincerely thank [Weijiang Li (Harvard)](https://vickyli99.github.io/), without her guidance and encouragement, I wouldn’t have even considered stepping into the world of research.
 

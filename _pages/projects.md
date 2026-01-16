@@ -27,7 +27,7 @@ Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
 
-[6] Detecting Community-Valued Content: A Systematic Comparison of Feature-Based and Language Model Approaches <br />
+[6] VASTU: Value-Aligned Social Toolkit for Online Content Curation <br />
 Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
 Under Review
 

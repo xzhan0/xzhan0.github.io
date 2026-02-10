@@ -109,7 +109,7 @@ Agam Goyal, **Xianyang Zhan**, Yilun Chen, Koustuv Saha, Eshwar Chandrasekharan 
 Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
 **Accepted to AAAI 2026 Conference (<span style="font-weight: bold;">Acceptance rate 17.6%</span>)**
 
-[4] Large Language Model-based Data Science Agent: A Survey [[PDF]](https://arxiv.org/pdf/2508.02744)<br />
+[4] Large Language Model-based Data Science Agent: A Survey [[PDF]](https://openreview.net/pdf?id=ZT5SJQN0CS)<br />
 Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 **Accepted to TMLR Transactions on Machine Learning Research**
 

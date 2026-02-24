@@ -6,7 +6,7 @@ subtitle1: Software Engineer II at <a href='https://www.uberfreight.com/'>Uber F
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href='https://outlook.office.com/mail/'>Email: zhan39@illinois.edu</a></p>

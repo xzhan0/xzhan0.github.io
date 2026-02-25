@@ -7,7 +7,6 @@ nav: true
 nav_order: 9
 ---
 
-
 <style>
     * {
         margin: 0;
@@ -27,7 +26,7 @@ nav_order: 9
 
     .container {
         width: 100%;
-        max-width: 1200px;
+        max-width: 1400px;
     }
 
     h1 {
@@ -127,9 +126,9 @@ nav_order: 9
         transform: translateX(-50%);
     }
 
-    /* Horizontal line */
+    /* Horizontal line spanning all 3 members */
     .horizontal {
-        width: 400px;
+        width: 720px;
         height: 3px;
         background: #667eea;
         position: absolute;
@@ -145,7 +144,17 @@ nav_order: 9
         background: #667eea;
         position: absolute;
         top: 70px;
-        left: calc(50% - 200px);
+        left: calc(50% - 360px);
+    }
+
+    .vertical-center {
+        width: 3px;
+        height: 50px;
+        background: #667eea;
+        position: absolute;
+        top: 70px;
+        left: 50%;
+        transform: translateX(-50%);
     }
 
     .vertical-right {
@@ -154,12 +163,12 @@ nav_order: 9
         background: #667eea;
         position: absolute;
         top: 70px;
-        right: calc(50% - 200px);
+        right: calc(50% - 360px);
     }
 
     .team-members {
         display: flex;
-        gap: 160px;
+        gap: 120px;
         position: relative;
     }
 
@@ -167,7 +176,7 @@ nav_order: 9
         min-width: 240px;
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: 900px) {
         .team-members {
             flex-direction: column;
             gap: 80px;
@@ -202,6 +211,7 @@ nav_order: 9
             <div class="vertical-top"></div>
             <div class="horizontal"></div>
             <div class="vertical-left"></div>
+            <div class="vertical-center"></div>
             <div class="vertical-right"></div>
         </div>
         
@@ -209,20 +219,20 @@ nav_order: 9
             <div class="member-card">
                 <img src="../assets/img/Yummi0.jpg" class="headshot" alt="Yummi">
                 <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Yummi</a></div>
-                <div class="member-role">Pet (2025-)</div>
+                <div class="member-role">Girl (2025-)</div>
             </div>
             
             <div class="member-card">
                 <img src="../assets/img/supra1.jpg" class="headshot" alt="Supra">
                 <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Supra</a></div>
-                <div class="member-role">Senior Pet (2021-)</div>
+                <div class="member-role">Boy (2021-)</div>
             </div>
 
-            <!-- <div class="member-card">
+            <div class="member-card">
                 <img src="../assets/img/ava.jpg" class="headshot" alt="Ava">
                 <div class="member-name"><a href="https://zheerwang.github.io/" target="_blank">Ava</a></div>
-            <div class="member-role">Another Human (2026-)</div> 
-            </div> -->
+                <div class="member-role">Human (2026-)</div>
+            </div>
         </div>
     </div>
 </div>

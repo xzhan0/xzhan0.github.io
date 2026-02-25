@@ -221,8 +221,8 @@ nav_order: 9
             <!-- <div class="member-card">
                 <img src="../assets/img/ava.jpg" class="headshot" alt="Ava">
                 <div class="member-name"><a href="https://zheerwang.github.io/" target="_blank">Ava</a></div>
-            <div class="member-role">Another Human (2026-)</div> -->
-            </div>
+            <div class="member-role">Another Human (2026-)</div> 
+            </div> -->
         </div>
     </div>
 </div>

@@ -30,7 +30,7 @@ Under Review
 [6] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
-
+<!-- 
 # Acknowledgement
 I had the privilege of getting into formal research early during my undergraduate degree, which gave me the opportunity to explore and understand what research truly is—and why we pursue it. I want to sincerely thank [Weijiang Li (Harvard)](https://vickyli99.github.io/), without her guidance and encouragement, I wouldn’t have even considered stepping into the world of research.
 
@@ -41,4 +41,4 @@ Later this summer, I’ll be joining Uber Freight as a Software Engineer II, foc
 This isn't the beginning of the end, but the end of the beginning. 
 
 Xianyang Zhan <br />
-Seattle, May 2025
+Seattle, May 2025 -->

@@ -25,7 +25,7 @@ Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 
 [5] VASTU: Value-Aligned Social Toolkit for Online Content Curation [[PDF]](https://arxiv.org/pdf/2601.12491)<br />
 Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
-Under Review
+**Submitted (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 0.1% of the submission</span>)**
 
 [6] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />

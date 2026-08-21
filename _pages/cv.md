@@ -53,13 +53,20 @@ Aug 2023 – May 2025
 
 # Work and Research Experience
 
+### Microsoft
+
+**Software Engineer II (L62)** (2026 Sept ~ )
+
+- Build AI Agents
+
 ### Uber Freight
 
-**Software Engineer II** (2025 Jun ~ )
+**Software Engineer II** (2025 Jun ~ 2026 Sept)
 
-- Worked on ML safe deployment, feature engineering and carrier pricing algorithms in freight pricing team
+- Build and maintain the pricing algorithms and machine learning models for the Uber Freight brokerage
 
-- Pricing strategy and algorithm design and implementation
+- Implement new features and experiments in the backend to improve algorithms and model performance
+
 
 ### Uber Freight
 
@@ -77,7 +84,6 @@ Aug 2023 – May 2025
 
 - Research on Code Generation and AI Agent 
 
-  
 
 ### Tsinghua University
 
@@ -115,7 +121,7 @@ Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 
 [5] VASTU: Value-Aligned Social Toolkit for Online Content Curation [[PDF]](https://arxiv.org/pdf/2601.12491)<br />
 Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
-Under Review
+**Accepted to EMNLP 2026 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 0.1% of the submission</span>)**
 
 [6] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />

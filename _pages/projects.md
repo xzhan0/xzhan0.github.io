@@ -15,17 +15,17 @@ description:
 Agam Goyal, **Xianyang Zhan**, Yilun Chen, Koustuv Saha, Eshwar Chandrasekharan <br />
 **Accepted to EMNLP 2025 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 1% of the submission, Oral Presentation</span>)**
 
-[3] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041)<br />
+[3] VASTU: Value-Aligned Social Toolkit for Online Content Curation [[PDF]](https://arxiv.org/pdf/2601.12491)<br />
+Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
+**Accepted to EMNLP 2026 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 0.1% of the submission</span>)**
+
+[4] Simulation Framework for Embodied Conversational Agents in Psychological Counseling [[PDF]](https://arxiv.org/pdf/2410.22041)<br />
 Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xiao, Tianhong Wang, Chen Zhong, Jiangtao Gong. <br />
 **Accepted to AAAI 2026 Conference (<span style="font-weight: bold;">Acceptance rate 17.6%</span>)**
 
-[4] Large Language Model-based Data Science Agent: A Survey [[PDF]](https://openreview.net/pdf?id=ZT5SJQN0CS)<br />
+[5] Large Language Model-based Data Science Agent: A Survey [[PDF]](https://openreview.net/pdf?id=ZT5SJQN0CS)<br />
 Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 **Accepted to TMLR Transactions on Machine Learning Research**
-
-[5] VASTU: Value-Aligned Social Toolkit for Online Content Curation [[PDF]](https://arxiv.org/pdf/2601.12491)<br />
-Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
-**Accepted to EMNLP 2026 Main Conference (<span style="color:rgb(255, 0, 0); font-weight: bold;">Top 0.1% of the submission</span>)**
 
 [6] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />

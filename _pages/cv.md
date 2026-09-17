@@ -12,7 +12,7 @@ You can download my CV in PDF format by clicking the link below:
 [Download my CV](../assets/pdf/cv.pdf) -->
 # Xianyang Zhan
 
-### Software Engineer II at Uber Freight
+### Software Engineer II at Microsoft
 
   
 
@@ -22,7 +22,7 @@ You can download my CV in PDF format by clicking the link below:
 
 - Google Scholar: [Xianyang Zhan](https://scholar.google.com/citations?user=t7HdaAIAAAAJ&hl=en)
 
-- Location: Chicago, IL && Seattle, WA
+- Location: Seattle, WA
 
   
 
